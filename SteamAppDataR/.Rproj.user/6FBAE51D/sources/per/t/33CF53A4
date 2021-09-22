@@ -1,0 +1,27 @@
+{
+    "id": "33CF53A4",
+    "path": "C:/_dev/PYTHON/DATA/SteamAppData/SteamAppDataR/positive-review-histogram.R",
+    "project_path": "positive-review-histogram.R",
+    "type": "r_source",
+    "hash": "3053490915",
+    "contents": "",
+    "dirty": false,
+    "created": 1630694564535.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "37,0",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1630718296,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1630718296425,
+    "read_only": false,
+    "read_only_alternatives": []
+}

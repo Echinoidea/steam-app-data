@@ -1,0 +1,2 @@
+x <- rnorm(50000, 100, 16)
+hist(x, col="darkmagenta", main="normal, mu=0, sigma=1", xlim=c(0, 200), freq=TRUE)
